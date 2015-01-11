@@ -1,6 +1,6 @@
 {
   "name" : "Spy Watch",
-  "version" : "0.93",
+  "version" : "0.94",
   "description" : "Allowing users to view third party internet tracking",
   "background" : {
     "scripts": ["background.js"]
